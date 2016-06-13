@@ -1,0 +1,15 @@
+{
+  "name": "anime-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "= <remirobert33530@gmail.com> (remirobert.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "noodlejs": "^0.3.2",
+    "osmosis": "^1.0.1"
+  }
+}
